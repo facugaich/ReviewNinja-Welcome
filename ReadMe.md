@@ -23,6 +23,8 @@ To add a flag simply leave a comment with your desired flag. For
 convenience we also have a dropdown menu to add these comments
 automatically.
 
+Test
+
 Another key feature you need to know about is ninja stars. Ninja 
 stars are how you communicate that a pull request is okay to merge. 
 You can set, by repository, how many ninja stars you think pull 
